@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - A function that differentiate whether a number is positive, negative or zero
+ * main - A function that differentiate whether a number is which type
  * Return: 0(Success)
  */
 int main(void)
